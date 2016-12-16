@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sdp.app.api-1.0.144">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sdp.app.api-1.0.144.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
